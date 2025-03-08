@@ -1,0 +1,15 @@
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\bin\Debug\net8.0\SerializationExample.exe
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\bin\Debug\net8.0\SerializationExample.deps.json
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\bin\Debug\net8.0\SerializationExample.runtimeconfig.json
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\bin\Debug\net8.0\SerializationExample.dll
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\bin\Debug\net8.0\SerializationExample.pdb
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\SerializationExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\SerializationExample.AssemblyInfoInputs.cache
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\SerializationExample.AssemblyInfo.cs
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\SerializationExample.csproj.CoreCompileInputs.cache
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\SerializationExample.sourcelink.json
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\SerializationExample.dll
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\refint\SerializationExample.dll
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\SerializationExample.pdb
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\SerializationExample.genruntimeconfig.cache
+D:\Cursos Codigo\Certificacion Mircosoft .NET\Curso 3\Backend_develop_NET\SerializationExample\obj\Debug\net8.0\ref\SerializationExample.dll
